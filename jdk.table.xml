@@ -1,0 +1,155 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 3.6.3 (D:\Python\python.exe)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.3" />
+      <homePath value="D:\Python\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://D:/Python/DLLs" />
+            <root type="simple" url="file://D:/Python/Lib" />
+            <root type="simple" url="file://D:/Python" />
+            <root type="simple" url="file://D:/Python/Lib/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/-643338342" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6.3 (D:\AI\python.exe)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.3" />
+      <homePath value="D:\AI\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://D:/Object_Detection/models/research/slim" />
+            <root type="simple" url="file://D:/Object_Detection/models/research/object_detection" />
+            <root type="simple" url="file://D:/Object_Detection/models/research" />
+            <root type="simple" url="file://D:/AI" />
+            <root type="simple" url="file://D:/AI/DLLs" />
+            <root type="simple" url="file://D:/AI/Lib" />
+            <root type="simple" url="file://D:/AI/Lib/site-packages" />
+            <root type="simple" url="file://D:/AI/Lib/site-packages/Babel-2.5.0-py3.6.egg" />
+            <root type="simple" url="file://D:/AI/Lib/site-packages/win32" />
+            <root type="simple" url="file://D:/AI/Lib/site-packages/win32/lib" />
+            <root type="simple" url="file://D:/AI/Lib/site-packages/pythonwin" />
+            <root type="simple" url="file://D:/DTU_ML/02450Toolbox_Python/Tools" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/481262702" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional>
+        <PATHS_ADDED_BY_USER_ROOT PATH_ADDED_BY_USER="file://D:/DTU_ML/02450Toolbox_Python/Tools" />
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6.3 virtualenv at D:\Python_Projects\Spotipy\spotipy" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.3" />
+      <homePath value="D:\Python_Projects\Spotipy\spotipy\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://D:/Object_Detection/models/research/slim" />
+            <root type="simple" url="file://D:/Object_Detection/models/research/object_detection" />
+            <root type="simple" url="file://D:/Object_Detection/models/research" />
+            <root type="simple" url="file://D:/Python_Projects/Spotipy/spotipy/Scripts" />
+            <root type="simple" url="file://D:/Python_Projects/Spotipy/spotipy/Lib" />
+            <root type="simple" url="file://D:/AI/Lib" />
+            <root type="simple" url="file://D:/AI/DLLs" />
+            <root type="simple" url="file://D:/Python_Projects/Spotipy/spotipy" />
+            <root type="simple" url="file://D:/Python_Projects/Spotipy/spotipy/Lib/site-packages" />
+            <root type="simple" url="file://D:/AI" />
+            <root type="simple" url="file://D:/AI/Lib/site-packages" />
+            <root type="simple" url="file://D:/AI/Lib/site-packages/Babel-2.5.0-py3.6.egg" />
+            <root type="simple" url="file://D:/AI/Lib/site-packages/win32" />
+            <root type="simple" url="file://D:/AI/Lib/site-packages/win32/lib" />
+            <root type="simple" url="file://D:/AI/Lib/site-packages/pythonwin" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/1744756912" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="D:/Python_Projects/Spotipy" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6.3 virtualenv at D:\Python_Projects\forecast" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.3" />
+      <homePath value="D:\Python_Projects\forecast\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://D:/Object_Detection/models/research/slim" />
+            <root type="simple" url="file://D:/Object_Detection/models/research/object_detection" />
+            <root type="simple" url="file://D:/Object_Detection/models/research" />
+            <root type="simple" url="file://D:/Python_Projects/forecast/Scripts" />
+            <root type="simple" url="file://D:/Python_Projects/forecast/Lib" />
+            <root type="simple" url="file://D:/AI/Lib" />
+            <root type="simple" url="file://D:/AI/DLLs" />
+            <root type="simple" url="file://D:/Python_Projects/forecast/Lib/site-packages" />
+            <root type="simple" url="file://D:/AI" />
+            <root type="simple" url="file://D:/AI/Lib/site-packages" />
+            <root type="simple" url="file://D:/AI/Lib/site-packages/Babel-2.5.0-py3.6.egg" />
+            <root type="simple" url="file://D:/AI/Lib/site-packages/win32" />
+            <root type="simple" url="file://D:/AI/Lib/site-packages/win32/lib" />
+            <root type="simple" url="file://D:/AI/Lib/site-packages/pythonwin" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/1682816880" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="D:/Python_Projects/forecast" />
+    </jdk>
+  </component>
+</application>
