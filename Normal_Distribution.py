@@ -18,9 +18,14 @@ from data_preparation import *
 import seaborn as sns, numpy as np
 import matplotlib.pyplot as plt
 
+print(attribute_names)
+
 data = []
+casual = []
+reg = []
+total = []
 for row in X:
-    data.append(row[8])
+    data.append(row[11])
 
 data = np.array(data).astype(float)
 data.sort()
