@@ -24,7 +24,8 @@ l = 2
 y = np.asarray(X[:,0])
 C = len(set(y))
 
-# f = figure()
+seasons = ["spring", "summer", "fall", "winter"];
+f = figure()
 title('NanoNose data: PCA')
 # ax = f.gca(projection='3d')
 fig = figure()
@@ -33,12 +34,14 @@ ax = fig.add_subplot(111, projection='3d')
 for c in range(1,C+1):
     # select indices belonging to class c:
     class_mask = y==c
+    # plot(Z[class_mask,i], Z[class_mask,j],"o")
     ax.scatter(Z[class_mask,i], Z[class_mask,j], Z[class_mask,l])
-    # ax.plot_trisurf(Z[class_mask,i], Z[class_mask,j],Z[class_mask,l])
 
-legend(set(y))
-xlabel('PC{0}'.format(i+1))
-ylabel('PC{0}'.format(j+1))
+legend(seasons)
+# xlabel('PC{0}'.format(i+1))
+# ylabel('PC{0}'.format(j+1))
+ax.set_xlabel('PC{0}'.format(i+1))
+ax.set_ylabel('PC{0}'.format(j+1))
 ax.set_zlabel('PC{0}'.format(l+1))
 
 # Output result to screen
